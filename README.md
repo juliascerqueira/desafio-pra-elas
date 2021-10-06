@@ -1,6 +1,6 @@
 # Criação de uma plataforma para DINDIN
 
-Desafio de finalização do programa <pra elas> do Gama Academy. </br>
+Desafio de finalização do programa pra elas do Gama Academy. </br>
 Deploy: Netlify. <br>
 Sendo construído</br>
 
