@@ -1,5 +1,6 @@
-
-
+document.getElementById("bunner-button").onclick = function () {
+  location.href = "./pages/cursos/investimento.html";
+};
 
 // ------------------- Botões curso -------------------------->
 

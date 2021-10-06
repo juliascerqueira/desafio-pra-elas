@@ -19,8 +19,8 @@ body {
 }
 
 a{
-  text-decoration:none;
-  color:inherit;
+  text-decoration: none;
+  color: inherit;
   cursor:pointer;
   font-family: inherit;
 }
@@ -176,7 +176,7 @@ h2 {
 .row{
   padding: 10%;
   padding-top:64px!important;
-  padding-bottom:64px!important
+  padding-bottom:64px!important;
 }
 
 .row:after{content:"";
