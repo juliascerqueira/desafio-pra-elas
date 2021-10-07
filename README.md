@@ -10,8 +10,7 @@ Sendo construído</br>
 
 <div align="center">
    
-[***Visite o projeto aqui***](https://jessicakopps.github.io/desafio-pra-elas/)<br />
+[***Visite o projeto aqui***](https://jessicakopps.github.io/desafio-pra-elas/)<br>
 
-[![9koKPcm.png](https://i.imgur.com/9koKPcm)](https://imgur.com/9koKPcm)
-
+[![9koKPcm.png](https://i.imgur.com/9koKPcm.png)](https://imgur.com/9koKPcm)
 </div>
