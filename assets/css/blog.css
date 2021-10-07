@@ -140,30 +140,21 @@ h2 {
 }
 
 .bar {
-  padding:8px 16px;
+  padding:8px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .bar-item{
-  padding:8px 16px;
+  padding:10px 16px;
   float:left;
   width:auto;
   border:none;
-  display:block;
-  outline:0;
-  text-align:center
+  display:inline;
+  font-weight: bold;
 }
 
-.bar-block
-.bar-item{
-  width:100%;
-  display:
-  block;
-  padding:8px 16px;
-  text-align:left;
-  border:none;
-  white-space:normal;
-  float:none;outline:0
-}
 
 .right{
   float:right!important;
