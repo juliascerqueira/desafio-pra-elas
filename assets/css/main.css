@@ -84,8 +84,8 @@ color: #FF4081;
 h1 {
   font-size: 60px;
   line-height: 69px;
-  font-family: 'Ubuntu', sans-serif;
   margin-bottom: 8px;
+  font-weight: bold;
 }
 
 .sub-title {
@@ -138,27 +138,19 @@ h2 {
 }
 
 .bar {
-  padding:8px 16px;
+  padding:8px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .bar-item{
-  padding:8px 16px;
+  padding:10px 16px;
   float:left;
   width:auto;
   border:none;
-  display:block;
-  outline:0;
-  text-align:center
-}
-
-.bar-block
-.bar-item{
-  width:100%;
-  display:
-  block;
-  text-align:left;
-  border:none;
-  white-space:normal;
+  display:inline;
+  font-weight: bold;
 }
 
 .right{
@@ -176,7 +168,7 @@ h2 {
 .row{
   padding: 10%;
   padding-top:64px!important;
-  padding-bottom:64px!important;
+  padding-bottom:64px!important;  
 }
 
 .row:after{content:"";
@@ -219,12 +211,13 @@ h2 {
 
 .col2 {
   display:inline;
+  align-items: center;
 }
 
 .col3 {
-  float:left;
+  float: left;
   width:100%;
-  padding:12px 24px!important
+  padding:12px 24px!important;
 }
 
 .col4 {
@@ -240,9 +233,9 @@ h2 {
   width:100%;
   z-index:1;
   flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-around;
-    align-items: center;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
 }
 
 footer {
